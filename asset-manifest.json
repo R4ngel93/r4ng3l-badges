@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/r4ng3l-badges/static/css/main.68715486.chunk.css",
+    "main.js": "/r4ng3l-badges/static/js/main.d137f968.chunk.js",
+    "main.js.map": "/r4ng3l-badges/static/js/main.d137f968.chunk.js.map",
+    "runtime-main.js": "/r4ng3l-badges/static/js/runtime-main.ff34509b.js",
+    "runtime-main.js.map": "/r4ng3l-badges/static/js/runtime-main.ff34509b.js.map",
+    "static/css/2.4be38407.chunk.css": "/r4ng3l-badges/static/css/2.4be38407.chunk.css",
+    "static/js/2.d4dff073.chunk.js": "/r4ng3l-badges/static/js/2.d4dff073.chunk.js",
+    "static/js/2.d4dff073.chunk.js.map": "/r4ng3l-badges/static/js/2.d4dff073.chunk.js.map",
+    "static/js/3.00fe52b9.chunk.js": "/r4ng3l-badges/static/js/3.00fe52b9.chunk.js",
+    "static/js/3.00fe52b9.chunk.js.map": "/r4ng3l-badges/static/js/3.00fe52b9.chunk.js.map",
+    "index.html": "/r4ng3l-badges/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/r4ng3l-badges/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.68715486.chunk.css.map": "/r4ng3l-badges/static/css/main.68715486.chunk.css.map",
+    "static/js/2.d4dff073.chunk.js.LICENSE.txt": "/r4ng3l-badges/static/js/2.d4dff073.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff34509b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.d4dff073.chunk.js",
+    "static/css/main.68715486.chunk.css",
+    "static/js/main.d137f968.chunk.js"
+  ]
+}
